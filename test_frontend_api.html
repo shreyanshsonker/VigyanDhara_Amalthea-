@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }
+        .success { background-color: #d4edda; border-color: #c3e6cb; }
+        .error { background-color: #f8d7da; border-color: #f5c6cb; }
+        button { padding: 10px 15px; margin: 5px; cursor: pointer; }
+        pre { background-color: #f8f9fa; padding: 10px; border-radius: 3px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>Expense Management API Test</h1>
+    
+    <div class="test-section">
+        <h2>Test Companies Endpoint</h2>
+        <button onclick="testCompanies()">Test Companies API</button>
+        <div id="companies-result"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test Company Users Endpoint</h2>
+        <button onclick="testCompanyUsers()">Test Company Users API</button>
+        <div id="users-result"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test Login Endpoint</h2>
+        <button onclick="testLogin()">Test Login API</button>
+        <div id="login-result"></div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8000/api';
+        
+        async function testCompanies() {
+            const resultDiv = document.getElementById('companies-result');
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                const response = await fetch(`${API_BASE}/companies/login/companies/`);
+                const data = await response.json();
+                
+                if (response.ok) {
+                    resultDiv.className = 'test-section success';
+                    resultDiv.innerHTML = `
+                        <h3>✅ Success!</h3>
+                        <p>Found ${data.length} companies:</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                } else {
+                    resultDiv.className = 'test-section error';
+                    resultDiv.innerHTML = `
+                        <h3>❌ Error</h3>
+                        <p>Status: ${response.status}</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                }
+            } catch (error) {
+                resultDiv.className = 'test-section error';
+                resultDiv.innerHTML = `
+                    <h3>❌ Network Error</h3>
+                    <p>${error.message}</p>
+                    <p>Make sure the Django server is running on http://localhost:8000</p>
+                `;
+            }
+        }
+        
+        async function testCompanyUsers() {
+            const resultDiv = document.getElementById('users-result');
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                // First get companies
+                const companiesResponse = await fetch(`${API_BASE}/companies/login/companies/`);
+                const companies = await companiesResponse.json();
+                
+                if (!companies.length) {
+                    resultDiv.className = 'test-section error';
+                    resultDiv.innerHTML = '<h3>❌ No companies found</h3>';
+                    return;
+                }
+                
+                // Test with first company
+                const companyId = companies[0].id;
+                const response = await fetch(`${API_BASE}/companies/login/companies/${companyId}/users/`);
+                const data = await response.json();
+                
+                if (response.ok) {
+                    resultDiv.className = 'test-section success';
+                    resultDiv.innerHTML = `
+                        <h3>✅ Success!</h3>
+                        <p>Found ${data.length} users for company "${companies[0].name}":</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                } else {
+                    resultDiv.className = 'test-section error';
+                    resultDiv.innerHTML = `
+                        <h3>❌ Error</h3>
+                        <p>Status: ${response.status}</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                }
+            } catch (error) {
+                resultDiv.className = 'test-section error';
+                resultDiv.innerHTML = `
+                    <h3>❌ Network Error</h3>
+                    <p>${error.message}</p>
+                `;
+            }
+        }
+        
+        async function testLogin() {
+            const resultDiv = document.getElementById('login-result');
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                // First get companies and users
+                const companiesResponse = await fetch(`${API_BASE}/companies/login/companies/`);
+                const companies = await companiesResponse.json();
+                
+                if (!companies.length) {
+                    resultDiv.className = 'test-section error';
+                    resultDiv.innerHTML = '<h3>❌ No companies found</h3>';
+                    return;
+                }
+                
+                const companyId = companies[0].id;
+                const usersResponse = await fetch(`${API_BASE}/companies/login/companies/${companyId}/users/`);
+                const users = await usersResponse.json();
+                
+                if (!users.length) {
+                    resultDiv.className = 'test-section error';
+                    resultDiv.innerHTML = '<h3>❌ No users found</h3>';
+                    return;
+                }
+                
+                // Try to login with first user
+                const user = users[0];
+                const loginData = {
+                    email: user.email,
+                    password: 'admin123', // Default password
+                    company_id: companyId,
+                    role: user.role
+                };
+                
+                const response = await fetch(`${API_BASE}/auth/login/`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(loginData)
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    resultDiv.className = 'test-section success';
+                    resultDiv.innerHTML = `
+                        <h3>✅ Login Success!</h3>
+                        <p>Logged in as: ${data.user.first_name} ${data.user.last_name} (${data.user.role})</p>
+                        <p>Company: ${data.user.company}</p>
+                        <p>Access Token: ${data.tokens.access.substring(0, 50)}...</p>
+                    `;
+                } else {
+                    resultDiv.className = 'test-section error';
+                    resultDiv.innerHTML = `
+                        <h3>❌ Login Error</h3>
+                        <p>Status: ${response.status}</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                }
+            } catch (error) {
+                resultDiv.className = 'test-section error';
+                resultDiv.innerHTML = `
+                    <h3>❌ Network Error</h3>
+                    <p>${error.message}</p>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

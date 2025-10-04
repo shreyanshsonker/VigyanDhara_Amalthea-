@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Companies API</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }
+        .success { background-color: #d4edda; border-color: #c3e6cb; }
+        .error { background-color: #f8d7da; border-color: #f5c6cb; }
+        button { padding: 10px 15px; margin: 5px; cursor: pointer; }
+        pre { background-color: #f8f9fa; padding: 10px; border-radius: 3px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>Test Companies API</h1>
+    
+    <div class="test-section">
+        <h2>Test Companies Endpoint</h2>
+        <button onclick="testCompanies()">Test Companies API</button>
+        <div id="companies-result"></div>
+    </div>
+
+    <script>
+        async function testCompanies() {
+            const resultDiv = document.getElementById('companies-result');
+            resultDiv.innerHTML = 'Testing...';
+            
+            try {
+                // Test Django API first
+                console.log('Testing Django API...');
+                const djangoResponse = await fetch('http://localhost:8000/api/companies/login/companies/');
+                const djangoData = await djangoResponse.json();
+                
+                if (djangoResponse.ok) {
+                    resultDiv.className = 'test-section success';
+                    resultDiv.innerHTML = `
+                        <h3>✅ Django API Success!</h3>
+                        <p>Found ${djangoData.length} companies:</p>
+                        <pre>${JSON.stringify(djangoData, null, 2)}</pre>
+                    `;
+                    return;
+                }
+            } catch (djangoError) {
+                console.log('Django API failed:', djangoError);
+            }
+            
+            try {
+                // Test Mock API
+                console.log('Testing Mock API...');
+                const mockResponse = await fetch('http://localhost:8001/api/companies/login/companies/');
+                const mockData = await mockResponse.json();
+                
+                if (mockResponse.ok) {
+                    resultDiv.className = 'test-section success';
+                    resultDiv.innerHTML = `
+                        <h3>✅ Mock API Success!</h3>
+                        <p>Found ${mockData.length} companies:</p>
+                        <pre>${JSON.stringify(mockData, null, 2)}</pre>
+                    `;
+                    return;
+                }
+            } catch (mockError) {
+                console.log('Mock API failed:', mockError);
+            }
+            
+            // Both APIs failed
+            resultDiv.className = 'test-section error';
+            resultDiv.innerHTML = `
+                <h3>❌ Both APIs Failed</h3>
+                <p>Django API: Not running on port 8000</p>
+                <p>Mock API: Not running on port 8001</p>
+                <p>Using static fallback data:</p>
+                <pre>[
+  { "id": 1, "name": "TechCorp Solutions", "slug": "techcorp-solutions" },
+  { "id": 2, "name": "FinanceFirst Inc", "slug": "financefirst-inc" },
+  { "id": 3, "name": "Global Manufacturing Co", "slug": "global-manufacturing-co" }
+]</pre>
+            `;
+        }
+        
+        // Auto-test on page load
+        window.onload = testCompanies;
+    </script>
+</body>
+</html>
