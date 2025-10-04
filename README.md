@@ -225,43 +225,4 @@ Authorization: Bearer <your_access_token>
 
 Receipts and documents are stored in the `media/` directory. Configure your web server to serve media files in production.
 
-## Celery Tasks
 
-Background tasks for:
-- Email notifications
-- Report generation
-- Analytics calculations
-- File processing
-
-Start Celery worker:
-```bash
-celery -A expense_management worker -l info
-```
-
-## Testing
-
-Run tests:
-```bash
-python manage.py test
-```
-
-## Production Deployment
-
-1. Set `DEBUG=False` in settings
-2. Configure proper database and Redis
-3. Set up static file serving
-4. Configure email settings
-5. Set up SSL certificates
-6. Configure CORS for your frontend domain
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
