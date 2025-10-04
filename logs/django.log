@@ -1,0 +1,1617 @@
+INFO 2025-10-04 14:48:20,128 autoreload 16460 17340 Watching for file changes with StatReloader
+INFO 2025-10-04 14:52:28,870 autoreload 16460 17340 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\approvals\models.py changed, reloading.
+INFO 2025-10-04 14:52:30,563 autoreload 15948 20528 Watching for file changes with StatReloader
+INFO 2025-10-04 14:59:10,949 autoreload 15948 20528 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\expense_management\settings.py changed, reloading.
+INFO 2025-10-04 14:59:13,062 autoreload 15480 18744 Watching for file changes with StatReloader
+WARNING 2025-10-04 14:59:31,845 log 15480 20776 Not Found: /
+WARNING 2025-10-04 14:59:31,846 basehttp 15480 20776 "GET / HTTP/1.1" 404 3282
+INFO 2025-10-04 14:59:34,489 basehttp 15480 20776 - Broken pipe from ('127.0.0.1', 56447)
+WARNING 2025-10-04 15:00:31,998 log 15480 23816 Not Found: /api/auth/
+WARNING 2025-10-04 15:00:31,999 basehttp 15480 23816 "GET /api/auth/ HTTP/1.1" 404 4938
+INFO 2025-10-04 15:00:34,496 basehttp 15480 23816 - Broken pipe from ('127.0.0.1', 62599)
+WARNING 2025-10-04 15:00:38,946 log 15480 16316 Unauthorized: /api/auth/users/
+WARNING 2025-10-04 15:00:38,947 basehttp 15480 16316 "GET /api/auth/users/ HTTP/1.1" 401 58
+INFO 2025-10-04 15:00:41,519 basehttp 15480 16316 - Broken pipe from ('127.0.0.1', 61223)
+WARNING 2025-10-04 15:00:46,638 log 15480 9932 Bad Request: /api/token/
+WARNING 2025-10-04 15:00:46,639 basehttp 15480 9932 "POST /api/token/ HTTP/1.1" 400 37
+INFO 2025-10-04 15:00:49,143 basehttp 15480 9932 - Broken pipe from ('127.0.0.1', 58177)
+INFO 2025-10-04 15:06:46,549 autoreload 21004 17456 Watching for file changes with StatReloader
+WARNING 2025-10-04 15:06:53,386 log 21004 24840 Not Found: /
+WARNING 2025-10-04 15:06:53,387 basehttp 21004 24840 "GET / HTTP/1.1" 404 3282
+WARNING 2025-10-04 15:06:53,513 log 21004 24840 Not Found: /favicon.ico
+WARNING 2025-10-04 15:06:53,514 basehttp 21004 24840 "GET /favicon.ico HTTP/1.1" 404 3333
+WARNING 2025-10-04 15:07:35,496 log 21004 24840 Not Found: /
+WARNING 2025-10-04 15:07:35,498 basehttp 21004 24840 "GET / HTTP/1.1" 404 3282
+WARNING 2025-10-04 15:08:45,618 log 21004 24840 Not Found: /
+WARNING 2025-10-04 15:08:45,619 basehttp 21004 24840 "GET / HTTP/1.1" 404 3282
+WARNING 2025-10-04 15:08:48,797 log 21004 24840 Not Found: /
+WARNING 2025-10-04 15:08:48,798 basehttp 21004 24840 "GET / HTTP/1.1" 404 3282
+INFO 2025-10-04 15:09:38,445 basehttp 21004 17956 "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-10-04 15:09:41,022 basehttp 21004 14228 "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-10-04 15:09:41,128 basehttp 21004 17956 - Broken pipe from ('127.0.0.1', 54874)
+INFO 2025-10-04 15:09:43,270 basehttp 21004 14228 - Broken pipe from ('127.0.0.1', 54882)
+INFO 2025-10-04 15:10:07,770 autoreload 21004 17456 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\models.py changed, reloading.
+INFO 2025-10-04 15:10:09,401 autoreload 14940 17404 Watching for file changes with StatReloader
+WARNING 2025-10-04 15:10:44,892 log 14940 15712 Not Found: /api
+WARNING 2025-10-04 15:10:44,894 basehttp 14940 15712 "GET /api HTTP/1.1" 404 3309
+WARNING 2025-10-04 15:10:50,529 log 14940 15712 Not Found: /api/
+WARNING 2025-10-04 15:10:50,530 basehttp 14940 15712 "GET /api/ HTTP/1.1" 404 3312
+INFO 2025-10-04 15:21:59,965 basehttp 14940 18648 "OPTIONS /api/token/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:22:55,094 basehttp 14940 18648 "OPTIONS /api/token/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:25:17,941 basehttp 14940 18648 "OPTIONS /api/token/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:26:21,310 basehttp 14940 18648 "OPTIONS /api/token/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:33:57,317 autoreload 14940 17404 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\models.py changed, reloading.
+INFO 2025-10-04 15:33:59,148 autoreload 25192 21924 Watching for file changes with StatReloader
+INFO 2025-10-04 15:34:03,922 autoreload 25192 21924 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\serializers.py changed, reloading.
+INFO 2025-10-04 15:34:05,616 autoreload 15348 12240 Watching for file changes with StatReloader
+INFO 2025-10-04 15:34:09,196 autoreload 15348 12240 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py changed, reloading.
+INFO 2025-10-04 15:34:10,901 autoreload 22976 25288 Watching for file changes with StatReloader
+INFO 2025-10-04 15:34:14,395 autoreload 22976 25288 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py changed, reloading.
+INFO 2025-10-04 15:34:16,081 autoreload 13480 2600 Watching for file changes with StatReloader
+INFO 2025-10-04 15:34:25,394 autoreload 13480 2600 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\urls.py changed, reloading.
+INFO 2025-10-04 15:34:27,084 autoreload 12388 8980 Watching for file changes with StatReloader
+INFO 2025-10-04 15:34:31,973 autoreload 12388 8980 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\views.py changed, reloading.
+INFO 2025-10-04 15:34:33,715 autoreload 12532 20680 Watching for file changes with StatReloader
+INFO 2025-10-04 15:36:27,224 autoreload 12532 20680 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\expenses\views.py changed, reloading.
+INFO 2025-10-04 15:36:29,073 autoreload 8248 4188 Watching for file changes with StatReloader
+INFO 2025-10-04 15:36:32,641 autoreload 8248 4188 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\expenses\views.py changed, reloading.
+INFO 2025-10-04 15:36:34,374 autoreload 18868 7632 Watching for file changes with StatReloader
+INFO 2025-10-04 15:36:36,736 autoreload 18868 7632 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\expenses\views.py changed, reloading.
+INFO 2025-10-04 15:36:38,556 autoreload 11724 13192 Watching for file changes with StatReloader
+INFO 2025-10-04 15:36:40,831 autoreload 11724 13192 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\expenses\views.py changed, reloading.
+INFO 2025-10-04 15:36:42,449 autoreload 25372 24192 Watching for file changes with StatReloader
+INFO 2025-10-04 15:36:49,388 autoreload 25372 24192 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\approvals\views.py changed, reloading.
+INFO 2025-10-04 15:36:51,125 autoreload 6276 19544 Watching for file changes with StatReloader
+INFO 2025-10-04 15:36:55,764 autoreload 6276 19544 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\approvals\views.py changed, reloading.
+INFO 2025-10-04 15:36:57,466 autoreload 22828 20644 Watching for file changes with StatReloader
+INFO 2025-10-04 15:38:04,681 basehttp 22828 20468 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:39:46,903 autoreload 22828 20644 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\serializers.py changed, reloading.
+INFO 2025-10-04 15:39:49,080 autoreload 13600 14248 Watching for file changes with StatReloader
+INFO 2025-10-04 15:39:49,672 basehttp 13600 23712 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:43:42,736 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:43:46,447 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:01,691 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:06,776 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:07,520 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:07,686 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:07,863 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:08,067 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:08,241 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 15:44:08,456 basehttp 13600 23712 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+WARNING 2025-10-04 15:44:14,574 log 13600 15444 Not Found: /api/
+WARNING 2025-10-04 15:44:14,575 basehttp 13600 15444 "GET /api/ HTTP/1.1" 404 3312
+INFO 2025-10-04 15:44:27,946 basehttp 13600 23712 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:49:57,642 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:50:30,371 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:50:58,060 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:52:24,575 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:52:30,384 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:52:35,317 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:52:40,565 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:52:48,208 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:53:18,087 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:53:42,707 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:53:49,272 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:53:58,185 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:54:04,201 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:54:46,638 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:55:01,686 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:59:27,962 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:59:35,072 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:59:48,324 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:59:54,332 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 15:59:59,325 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:00:09,324 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:00:37,333 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:00:37,990 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:00:44,344 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:01:21,865 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:01:48,888 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:02:27,100 basehttp 13600 6480 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:02:29,392 basehttp 13600 6480 - Broken pipe from ('127.0.0.1', 54670)
+INFO 2025-10-04 16:02:34,338 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:02:44,396 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:02:48,760 basehttp 13600 11928 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:02:54,342 log 13600 11928 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:02:54,350 basehttp 13600 11928 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:02:57,401 basehttp 13600 2032 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:02:57,532 log 13600 12056 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:02:57,538 basehttp 13600 12056 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:03:00,727 basehttp 13600 2032 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:03:00,776 log 13600 24864 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:03:00,783 basehttp 13600 24864 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:03:07,162 basehttp 13600 17208 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:03:09,958 basehttp 13600 17208 - Broken pipe from ('127.0.0.1', 63318)
+INFO 2025-10-04 16:04:16,143 basehttp 13600 2032 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:04:16,193 log 13600 2032 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:04:16,196 basehttp 13600 2032 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:04:16,704 basehttp 13600 7924 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:04:22,454 log 13600 7924 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:04:22,458 basehttp 13600 7924 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:04:22,459 basehttp 13600 7924 - Broken pipe from ('127.0.0.1', 61770)
+INFO 2025-10-04 16:05:20,361 basehttp 13600 23208 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:05:44,726 basehttp 13600 11868 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:05:49,815 log 13600 11868 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:05:49,819 basehttp 13600 11868 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:06:12,635 basehttp 13600 17464 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:06:48,875 basehttp 13600 17464 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:07:56,003 basehttp 13600 12348 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:07:58,683 basehttp 13600 12348 - Broken pipe from ('127.0.0.1', 58300)
+ERROR 2025-10-04 16:08:34,284 log 13600 17464 Internal Server Error: /api/companies/login/companies/2/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:08:34,289 basehttp 13600 17464 "GET /api/companies/login/companies/2/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:08:38,611 basehttp 13600 6416 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:09:09,765 basehttp 13600 6416 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:09:45,502 basehttp 13600 6416 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:09:51,199 log 13600 6416 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:09:51,204 basehttp 13600 6416 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+ERROR 2025-10-04 16:09:55,618 log 13600 1576 Internal Server Error: /api/companies/login/companies/2/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:09:55,623 basehttp 13600 1576 "GET /api/companies/login/companies/2/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:10:22,802 basehttp 13600 6244 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:10:31,870 basehttp 13600 6244 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:12:04,496 basehttp 13600 6244 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:12:41,808 basehttp 13600 6244 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:12:44,923 basehttp 13600 6244 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:12:50,160 log 13600 6244 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:12:50,166 basehttp 13600 6244 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+ERROR 2025-10-04 16:12:53,082 log 13600 22872 Internal Server Error: /api/companies/login/companies/2/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:12:53,086 basehttp 13600 22872 "GET /api/companies/login/companies/2/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:12:59,778 basehttp 13600 7384 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:12:59,829 log 13600 7384 Internal Server Error: /api/companies/login/companies/2/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:12:59,833 basehttp 13600 7384 "GET /api/companies/login/companies/2/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:13:00,331 basehttp 13600 24728 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+ERROR 2025-10-04 16:13:40,890 log 13600 24728 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:13:40,894 basehttp 13600 24728 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:13:54,928 basehttp 13600 19600 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:14:03,025 basehttp 13600 19600 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:15:04,195 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:08,450 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:08,598 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:08,749 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:08,908 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:09,064 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:09,205 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:09,360 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:09,521 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:09,680 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:09,849 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:10,016 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:10,182 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:10,337 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:10,506 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:10,670 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:10,826 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:10,992 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:11,150 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:11,303 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:11,459 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:11,624 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:11,789 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:11,955 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:12,122 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:12,278 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:15:12,499 basehttp 13600 19600 "OPTIONS /api/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:19:11,923 basehttp 13600 19600 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:19:26,222 basehttp 13600 19600 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:21:47,083 basehttp 13600 17908 "POST /api/auth/login/ HTTP/1.1" 200 1040
+INFO 2025-10-04 16:21:48,401 basehttp 13600 17908 - Broken pipe from ('127.0.0.1', 64327)
+ERROR 2025-10-04 16:22:22,286 log 13600 19600 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:22:22,287 basehttp 13600 19600 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 102964
+INFO 2025-10-04 16:22:38,043 basehttp 13600 14432 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:24:47,931 basehttp 13600 24080 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:24:49,258 basehttp 13600 24080 - Broken pipe from ('127.0.0.1', 51595)
+ERROR 2025-10-04 16:24:53,032 log 13600 23160 Internal Server Error: /api/companies/login/companies/1/users/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py", line 82, in get_company_users
+    from accounts.models import User
+ModuleNotFoundError: No module named 'accounts'
+ERROR 2025-10-04 16:24:53,034 basehttp 13600 23160 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 500 101144
+INFO 2025-10-04 16:24:54,280 basehttp 13600 23160 - Broken pipe from ('127.0.0.1', 51613)
+INFO 2025-10-04 16:24:58,951 autoreload 13600 14248 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py changed, reloading.
+INFO 2025-10-04 16:24:59,829 autoreload 19000 23700 Watching for file changes with StatReloader
+INFO 2025-10-04 16:25:02,013 basehttp 19000 10080 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:25:03,202 basehttp 19000 10080 - Broken pipe from ('127.0.0.1', 51622)
+INFO 2025-10-04 16:25:07,591 basehttp 19000 23560 "POST /api/auth/login/ HTTP/1.1" 200 1040
+INFO 2025-10-04 16:25:08,906 basehttp 19000 23560 - Broken pipe from ('127.0.0.1', 51627)
+WARNING 2025-10-04 16:25:34,464 log 19000 23992 Not Found: /api/auth/login/" -Method POST -Headers @{"Content-Type"="application/json"} -Body '{"email": "admin@expenseflow.com", "password": "admin123", "company_id": 1, "role": "admin"}'
+WARNING 2025-10-04 16:25:34,465 basehttp 19000 23992 "GET /api/auth/login/%22%20-Method%20POST%20-Headers%20@%7B%22Content-Type%22=%22application/json%22%7D%20-Body%20'%7B%22email%22:%20%22admin@expenseflow.com%22,%20%22password%22:%20%22admin123%22,%20%22company_id%22:%201,%20%22role%22:%20%22admin%22%7D' HTTP/1.1" 404 5733
+INFO 2025-10-04 16:26:00,574 basehttp 19000 2772 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:26:15,122 basehttp 19000 1532 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:26:17,163 basehttp 19000 24472 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:26:19,471 basehttp 19000 18136 "POST /api/auth/login/ HTTP/1.1" 200 1040
+INFO 2025-10-04 16:26:21,760 basehttp 19000 4524 "POST /api/auth/login/ HTTP/1.1" 200 1045
+INFO 2025-10-04 16:26:24,036 basehttp 19000 25212 "POST /api/auth/login/ HTTP/1.1" 200 1048
+INFO 2025-10-04 16:26:25,136 basehttp 19000 5148 "GET /api/companies/login/companies/ HTTP/1.1" 200 70
+INFO 2025-10-04 16:26:31,917 autoreload 19000 23700 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py changed, reloading.
+INFO 2025-10-04 16:26:32,701 autoreload 14784 24684 Watching for file changes with StatReloader
+INFO 2025-10-04 16:26:34,422 basehttp 14784 4208 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:27:02,455 basehttp 14784 4208 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:29:15,770 basehttp 14784 9084 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:29:20,850 basehttp 14784 9084 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:29:28,755 basehttp 14784 9084 "POST /api/auth/login/ HTTP/1.1" 200 1053
+INFO 2025-10-04 16:30:47,335 basehttp 14784 4208 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:30:47,341 basehttp 14784 4208 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:30:48,323 basehttp 14784 4208 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:31:47,156 autoreload 14784 24684 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\serializers.py changed, reloading.
+INFO 2025-10-04 16:32:03,764 autoreload 17908 21620 Watching for file changes with StatReloader
+INFO 2025-10-04 16:32:13,366 basehttp 17908 23980 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:32:18,145 basehttp 17908 23980 "POST /api/auth/login/ HTTP/1.1" 200 1053
+INFO 2025-10-04 16:32:59,209 autoreload 17908 21620 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\companies\views.py changed, reloading.
+INFO 2025-10-04 16:32:59,816 autoreload 6772 13856 Watching for file changes with StatReloader
+INFO 2025-10-04 16:33:14,775 basehttp 6772 18876 "POST /api/auth/login/ HTTP/1.1" 200 1053
+INFO 2025-10-04 16:33:49,123 basehttp 6772 11916 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:33:53,794 basehttp 6772 11916 "GET /api/companies/login/companies/2/users/ HTTP/1.1" 200 401
+INFO 2025-10-04 16:33:56,394 basehttp 6772 11916 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:34:25,611 autoreload 6772 13856 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\serializers.py changed, reloading.
+INFO 2025-10-04 16:34:26,450 autoreload 20800 25256 Watching for file changes with StatReloader
+INFO 2025-10-04 16:34:26,945 basehttp 20800 22152 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:34:38,416 basehttp 20800 22152 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:34:53,440 basehttp 20800 22152 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:35:00,512 basehttp 20800 22152 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:35:48,716 autoreload 20800 25256 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\expense_management\settings.py changed, reloading.
+INFO 2025-10-04 16:35:49,342 autoreload 10816 15136 Watching for file changes with StatReloader
+INFO 2025-10-04 16:35:57,235 basehttp 10816 21024 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+WARNING 2025-10-04 16:35:57,499 log 10816 21024 Bad Request: /api/auth/login/
+WARNING 2025-10-04 16:35:57,499 basehttp 10816 21024 "POST /api/auth/login/ HTTP/1.1" 400 69
+WARNING 2025-10-04 16:36:17,883 log 10816 21024 Bad Request: /api/auth/login/
+WARNING 2025-10-04 16:36:17,883 basehttp 10816 21024 "POST /api/auth/login/ HTTP/1.1" 400 69
+INFO 2025-10-04 16:36:29,234 autoreload 17672 12624 Watching for file changes with StatReloader
+INFO 2025-10-04 16:36:55,804 basehttp 17672 18208 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:36:59,920 basehttp 17672 18208 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:37:44,873 basehttp 17672 18208 "POST /api/auth/login/ HTTP/1.1" 200 1040
+INFO 2025-10-04 16:38:02,595 autoreload 17672 12624 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\expense_management\settings.py changed, reloading.
+INFO 2025-10-04 16:38:03,235 autoreload 21864 8788 Watching for file changes with StatReloader
+INFO 2025-10-04 16:38:52,567 basehttp 21864 23772 "OPTIONS /api/companies/login/companies/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:38:52,587 basehttp 21864 23772 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:38:55,786 basehttp 21864 23772 "OPTIONS /api/companies/login/companies/1/users/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:38:55,792 basehttp 21864 23772 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:38:59,185 basehttp 21864 23772 "OPTIONS /api/companies/login/companies/2/users/ HTTP/1.1" 200 0
+INFO 2025-10-04 16:38:59,190 basehttp 21864 23772 "GET /api/companies/login/companies/2/users/ HTTP/1.1" 200 401
+INFO 2025-10-04 16:39:21,027 basehttp 21864 23772 "POST /api/auth/login/ HTTP/1.1" 200 1053
+INFO 2025-10-04 16:44:23,664 basehttp 21864 18552 "OPTIONS /api/analytics/expenses/ HTTP/1.1" 200 0
+ERROR 2025-10-04 16:44:23,711 log 21864 18552 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+ERROR 2025-10-04 16:44:23,719 basehttp 21864 18552 "GET /api/analytics/expenses/ HTTP/1.1" 500 198931
+ERROR 2025-10-04 16:44:31,731 log 21864 18552 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+ERROR 2025-10-04 16:44:31,737 basehttp 21864 18552 "GET /api/analytics/expenses/ HTTP/1.1" 500 198931
+ERROR 2025-10-04 16:44:38,333 log 21864 18552 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+ERROR 2025-10-04 16:44:38,338 basehttp 21864 18552 "GET /api/analytics/expenses/ HTTP/1.1" 500 198931
+ERROR 2025-10-04 16:44:39,370 log 21864 18552 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+INFO 2025-10-04 16:44:39,380 basehttp 21864 18552 - Broken pipe from ('127.0.0.1', 52092)
+ERROR 2025-10-04 16:44:39,561 log 21864 3292 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+INFO 2025-10-04 16:44:39,572 basehttp 21864 3292 - Broken pipe from ('127.0.0.1', 59292)
+ERROR 2025-10-04 16:44:40,007 log 21864 22548 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+ERROR 2025-10-04 16:44:40,012 basehttp 21864 22548 "GET /api/analytics/expenses/ HTTP/1.1" 500 198931
+ERROR 2025-10-04 16:44:40,175 log 21864 22548 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+ERROR 2025-10-04 16:44:40,181 basehttp 21864 22548 "GET /api/analytics/expenses/ HTTP/1.1" 500 198931
+ERROR 2025-10-04 16:44:41,394 log 21864 22548 Internal Server Error: /api/analytics/expenses/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expense_analytics
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 175, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\pagination.py", line 211, in paginate_queryset
+    self.page = paginator.page(page_number)
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expense_analytics
+ERROR 2025-10-04 16:44:41,401 basehttp 21864 22548 "GET /api/analytics/expenses/ HTTP/1.1" 500 198931
+INFO 2025-10-04 16:45:18,330 basehttp 21864 22548 "OPTIONS /api/auth/stats/ HTTP/1.1" 200 0
+ERROR 2025-10-04 16:45:18,360 log 21864 22548 Internal Server Error: /api/auth/stats/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expenses
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\views.py", line 190, in user_stats_view
+    'total_expenses': user.expenses.count(),
+                      ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expenses
+ERROR 2025-10-04 16:45:18,365 basehttp 21864 22548 "GET /api/auth/stats/ HTTP/1.1" 500 170471
+WARNING 2025-10-04 16:45:37,520 log 21864 20684 Unauthorized: /api/auth/stats/
+WARNING 2025-10-04 16:45:37,520 basehttp 21864 20684 "GET /api/auth/stats/ HTTP/1.1" 401 107
+WARNING 2025-10-04 16:47:20,605 log 21864 22904 Unauthorized: /api/auth/stats/
+WARNING 2025-10-04 16:47:20,605 basehttp 21864 22904 "GET /api/auth/stats/ HTTP/1.1" 401 172
+INFO 2025-10-04 16:47:43,284 basehttp 21864 22904 "POST /api/auth/login/ HTTP/1.1" 200 1053
+ERROR 2025-10-04 16:48:27,112 log 21864 22548 Internal Server Error: /api/auth/stats/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expenses
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\views.py", line 190, in user_stats_view
+    'total_expenses': user.expenses.count(),
+                      ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expenses
+ERROR 2025-10-04 16:48:27,116 basehttp 21864 22548 "GET /api/auth/stats/ HTTP/1.1" 500 170471
+ERROR 2025-10-04 16:48:32,729 log 21864 22548 Internal Server Error: /api/auth/stats/
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: expenses
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\apps\accounts\views.py", line 190, in user_stats_view
+    'total_expenses': user.expenses.count(),
+                      ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: expenses
+ERROR 2025-10-04 16:48:32,733 basehttp 21864 22548 "GET /api/auth/stats/ HTTP/1.1" 500 170471
+INFO 2025-10-04 16:49:25,747 autoreload 21864 8788 C:\Users\Lenovo\OneDrive\Documents\Desktop\Expense managment\backend\expense_management\settings.py changed, reloading.
+INFO 2025-10-04 16:49:26,732 autoreload 9548 3744 Watching for file changes with StatReloader
+INFO 2025-10-04 16:49:44,037 basehttp 9548 23300 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:49:47,802 basehttp 9548 23300 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:50:01,706 basehttp 9548 23300 "POST /api/auth/login/ HTTP/1.1" 200 1045
+INFO 2025-10-04 16:50:13,443 basehttp 9548 23300 "GET /api/companies/login/companies/ HTTP/1.1" 200 196
+INFO 2025-10-04 16:50:17,620 basehttp 9548 23300 "GET /api/companies/login/companies/1/users/ HTTP/1.1" 200 304
+INFO 2025-10-04 16:50:31,425 basehttp 9548 23300 "POST /api/auth/login/ HTTP/1.1" 200 1048

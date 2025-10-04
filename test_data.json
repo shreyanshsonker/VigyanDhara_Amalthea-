@@ -1,0 +1,184 @@
+{
+  "companies": [
+    {
+      "name": "TechCorp Solutions",
+      "slug": "techcorp-solutions",
+      "description": "A leading technology company specializing in software development",
+      "email": "admin@techcorp.com",
+      "phone_number": "+1-555-0123",
+      "website": "https://techcorp.com",
+      "address_line_1": "123 Tech Street",
+      "city": "San Francisco",
+      "state_province": "CA",
+      "postal_code": "94105",
+      "country": "United States",
+      "industry": "Technology",
+      "company_size": "51-200",
+      "currency": "USD",
+      "timezone": "America/Los_Angeles",
+      "is_active": true,
+      "is_verified": true,
+      "users": [
+        {
+          "email": "admin@techcorp.com",
+          "username": "admin_techcorp",
+          "first_name": "John",
+          "last_name": "Admin",
+          "role": "admin",
+          "password": "admin123"
+        },
+        {
+          "email": "manager@techcorp.com",
+          "username": "manager_techcorp",
+          "first_name": "Sarah",
+          "last_name": "Manager",
+          "role": "manager",
+          "password": "manager123"
+        },
+        {
+          "email": "employee1@techcorp.com",
+          "username": "employee1_techcorp",
+          "first_name": "Mike",
+          "last_name": "Employee",
+          "role": "employee",
+          "password": "employee123"
+        },
+        {
+          "email": "employee2@techcorp.com",
+          "username": "employee2_techcorp",
+          "first_name": "Lisa",
+          "last_name": "Developer",
+          "role": "employee",
+          "password": "employee123"
+        }
+      ],
+      "expense_categories": [
+        {"name": "Travel", "description": "Business travel expenses", "color": "#3B82F6"},
+        {"name": "Meals", "description": "Business meals and entertainment", "color": "#10B981"},
+        {"name": "Office Supplies", "description": "Office equipment and supplies", "color": "#F59E0B"},
+        {"name": "Software", "description": "Software licenses and subscriptions", "color": "#8B5CF6"},
+        {"name": "Training", "description": "Professional development and training", "color": "#EF4444"}
+      ]
+    },
+    {
+      "name": "FinanceFirst Inc",
+      "slug": "financefirst-inc",
+      "description": "Financial services company providing investment solutions",
+      "email": "admin@financefirst.com",
+      "phone_number": "+1-555-0456",
+      "website": "https://financefirst.com",
+      "address_line_1": "456 Finance Ave",
+      "city": "New York",
+      "state_province": "NY",
+      "postal_code": "10001",
+      "country": "United States",
+      "industry": "Financial Services",
+      "company_size": "201-500",
+      "currency": "USD",
+      "timezone": "America/New_York",
+      "is_active": true,
+      "is_verified": true,
+      "users": [
+        {
+          "email": "admin@financefirst.com",
+          "username": "admin_financefirst",
+          "first_name": "Robert",
+          "last_name": "Admin",
+          "role": "admin",
+          "password": "admin123"
+        },
+        {
+          "email": "manager@financefirst.com",
+          "username": "manager_financefirst",
+          "first_name": "Jennifer",
+          "last_name": "Manager",
+          "role": "manager",
+          "password": "manager123"
+        },
+        {
+          "email": "employee1@financefirst.com",
+          "username": "employee1_financefirst",
+          "first_name": "David",
+          "last_name": "Analyst",
+          "role": "employee",
+          "password": "employee123"
+        },
+        {
+          "email": "employee2@financefirst.com",
+          "username": "employee2_financefirst",
+          "first_name": "Emily",
+          "last_name": "Consultant",
+          "role": "employee",
+          "password": "employee123"
+        }
+      ],
+      "expense_categories": [
+        {"name": "Client Entertainment", "description": "Client meetings and entertainment", "color": "#3B82F6"},
+        {"name": "Travel", "description": "Business travel expenses", "color": "#10B981"},
+        {"name": "Professional Services", "description": "Legal, accounting, and consulting", "color": "#F59E0B"},
+        {"name": "Technology", "description": "IT equipment and software", "color": "#8B5CF6"},
+        {"name": "Marketing", "description": "Marketing and advertising expenses", "color": "#EF4444"}
+      ]
+    },
+    {
+      "name": "Global Manufacturing Co",
+      "slug": "global-manufacturing-co",
+      "description": "International manufacturing company with operations worldwide",
+      "email": "admin@globalmfg.com",
+      "phone_number": "+1-555-0789",
+      "website": "https://globalmfg.com",
+      "address_line_1": "789 Industrial Blvd",
+      "city": "Detroit",
+      "state_province": "MI",
+      "postal_code": "48201",
+      "country": "United States",
+      "industry": "Manufacturing",
+      "company_size": "500+",
+      "currency": "USD",
+      "timezone": "America/Detroit",
+      "is_active": true,
+      "is_verified": true,
+      "users": [
+        {
+          "email": "admin@globalmfg.com",
+          "username": "admin_globalmfg",
+          "first_name": "Michael",
+          "last_name": "Admin",
+          "role": "admin",
+          "password": "admin123"
+        },
+        {
+          "email": "manager@globalmfg.com",
+          "username": "manager_globalmfg",
+          "first_name": "Patricia",
+          "last_name": "Manager",
+          "role": "manager",
+          "password": "manager123"
+        },
+        {
+          "email": "employee1@globalmfg.com",
+          "username": "employee1_globalmfg",
+          "first_name": "James",
+          "last_name": "Engineer",
+          "role": "employee",
+          "password": "employee123"
+        },
+        {
+          "email": "employee2@globalmfg.com",
+          "username": "employee2_globalmfg",
+          "first_name": "Maria",
+          "last_name": "Technician",
+          "role": "employee",
+          "password": "employee123"
+        }
+      ],
+      "expense_categories": [
+        {"name": "Equipment", "description": "Manufacturing equipment and tools", "color": "#3B82F6"},
+        {"name": "Materials", "description": "Raw materials and supplies", "color": "#10B981"},
+        {"name": "Travel", "description": "Business travel expenses", "color": "#F59E0B"},
+        {"name": "Training", "description": "Employee training and development", "color": "#8B5CF6"},
+        {"name": "Safety", "description": "Safety equipment and compliance", "color": "#EF4444"}
+      ]
+    }
+  ]
+}
